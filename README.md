@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey! Ravi de vous voir ici.
 
-<!--
-**IlhameSadik/IlhameSadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bienvenue sur ma page !**  
+Je suis **Ilhame SADIK**, développeuse Fullstack basée au Maroc.
 
-Here are some ideas to get you started:
+✨ 🧠 Fondatrice de [VotreProjet] 👩‍💻 Ingénieure Logicielle 📊 Data Scientist 🔍 Consultante & Freelance 🚀 Ouverte aux projets Tech & IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies avec lesquelles je travaille
+- React
+- GitHub/Git
+- npm
+- HTML5/css
+- spring boot
+- javascript
+-langage R
+
+
+### Où me trouver
+- [GitHub](https://github.com/IlhameSadik)
+- [LinkedIn](https://www.linkedin.com/in/ilhame-sadik-4a2404163/)
+- [Instagram](https://instagram.com/VotreNomUtilisateur)
+
+[Offrez-moi un café](https://buymeacoffee.com/sadikilhamg)
