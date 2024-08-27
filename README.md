@@ -1,9 +1,6 @@
-<p align="center" style="color:blue;">
-  
-  # Hey ! Ravi de vous voir ici.
-  
-  ![Bienvenue sur ma page !](https://media.giphy.com/media/l0HlS0FhfPAwPiE2k/giphy.gif)
-</p>
+<h1 align="center" style="color:blue;">
+Hey ! Ravi de vous voir ici.
+</h1>
 
 ---
 
