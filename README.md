@@ -1,14 +1,16 @@
 <h1 align="center" style="color:blue;">
 Hey ! Ravi de vous voir ici.
+
+  
+  ---
 </h1>
 
----
+
 
 ## 💙 à propos de moi 
 
 Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
 
----
 
 ## 🌟 Technologies avec lesquelles je travaille
 
@@ -22,8 +24,6 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
   <img src="https://img.shields.io/badge/Tech-GitHub-black" />
 </p>
 
----
-
 ## 🌍 Où me trouver
 
 <p>
@@ -32,11 +32,10 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
   <a href="https://instagram.com/VotreNomUtilisateur">Instagram</a>
 </p>
 
----
 
 ## ☕ Offrez-moi un café
 
 Si vous souhaitez soutenir mon travail, vous pouvez le faire en [offrant un café](https://buymeacoffee.com/sadikilhamg). Votre soutien est grandement apprécié !
 Merci de visiter ma page ! N’hésitez pas à me contacter pour toute question ou opportunité.
 
----
+
