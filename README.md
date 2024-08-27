@@ -1,16 +1,21 @@
 <p align="center" style="color:blue;">
+  
   # Hey ! Ravi de vous voir ici.
+  
   ![Bienvenue sur ma page !](https://media.giphy.com/media/l0HlS0FhfPAwPiE2k/giphy.gif)
 </p>
 
-### 💙 à propos de moi 
+---
+
+## 💙 à propos de moi 
 
 Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
 
+---
 
-### 🌟 Technologies avec lesquelles je travaille
+## 🌟 Technologies avec lesquelles je travaille
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Tech-React-blue" />
   <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" />
   <img src="https://img.shields.io/badge/Tech-Spring%20Boot-green" />
@@ -20,15 +25,19 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
   <img src="https://img.shields.io/badge/Tech-GitHub-black" />
 </p>
 
-### 🌍 Où me trouver
+---
 
-<p align="center">
-  <a href="https://github.com/IlhameSadik">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/">LinkedIn</a> • 
+## 🌍 Où me trouver
+
+<p>
+  <a href="https://github.com/IlhameSadik">GitHub</a>  
+  <a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/">LinkedIn</a> 
   <a href="https://instagram.com/VotreNomUtilisateur">Instagram</a>
 </p>
 
-### ☕ Offrez-moi un café
+---
+
+## ☕ Offrez-moi un café
 
 Si vous souhaitez soutenir mon travail, vous pouvez le faire en [offrant un café](https://buymeacoffee.com/sadikilhamg). Votre soutien est grandement apprécié !
 
