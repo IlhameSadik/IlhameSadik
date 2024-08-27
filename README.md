@@ -10,6 +10,17 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
 ![React](https://img.shields.io/badge/Tech-React-blue)
 ![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow)
 ![Spring Boot](https://img.shields.io/badge/Tech-Spring%20Boot-green)
+![HTML5](https://img.shields.io/badge/Tech-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Tech-CSS3-blue)
+![npm](https://img.shields.io/badge/Tech-npm-red)
+![GitHub](https://img.shields.io/badge/Tech-GitHub-black)
+
+---
+
+### 🕺 Animation de Texte
+
+Voici une démonstration de texte animé !  
+![Texte animé](https://media.giphy.com/media/3o6Zt5QL9V0W7lLhBo/giphy.gif)
 
 ---
 
