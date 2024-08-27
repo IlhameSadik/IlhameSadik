@@ -7,13 +7,9 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
 
 ### 🌟 Technologies avec lesquelles je travaille
 
-- **React**
-- **GitHub/Git**
-- **npm**
-- **HTML5/CSS**
-- **Spring Boot**
-- **JavaScript**
-- **Langage R**
+![React](https://img.shields.io/badge/Tech-React-blue)
+![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow)
+![Spring Boot](https://img.shields.io/badge/Tech-Spring%20Boot-green)
 
 ---
 
