@@ -1,5 +1,5 @@
-<p align="center" style="color:blue;">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+sur+mon+page+👋;je+suis+Ilhame+Sadik+!;" />
+<p align="center" style="background-color:blue;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Bienvenue+sur+mon+page+👋;je+suis+Ilhame+Sadik+!;" />
 </p>
 
 ## 💙 à propos de moi 
