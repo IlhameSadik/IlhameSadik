@@ -1,9 +1,7 @@
 # Hey! Ravi de vous voir ici.
 
 **Bienvenue sur ma page !**  
-Je suis **Ilhame SADIK**, développeuse Fullstack basée au Maroc.
 
-✨ 🧠 Fondatrice de [VotreProjet] 👩‍💻 Ingénieure Logicielle 📊 Data Scientist 🔍 Consultante & Freelance 🚀 Ouverte aux projets Tech & IA
 
 ### Technologies avec lesquelles je travaille
 - React
