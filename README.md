@@ -37,7 +37,6 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
 ## ☕ Offrez-moi un café
 
 Si vous souhaitez soutenir mon travail, vous pouvez le faire en [offrant un café](https://buymeacoffee.com/sadikilhamg). Votre soutien est grandement apprécié !
+Merci de visiter ma page ! N’hésitez pas à me contacter pour toute question ou opportunité.
 
 ---
-
-Merci de visiter ma page ! N’hésitez pas à me contacter pour toute question ou opportunité.
