@@ -1,19 +1,10 @@
-<h1 align="center" style="color:blue;">
-Hey ! Ravi de vous voir ici.
-
-  
-  ---
-</h1>
-
-
+<p align="center" style="color:blue;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue+sur+mon+page+👋;je+suis+Ilhame+Sadik+!;" />
+</p>
 
 ## 💙 à propos de moi 
-
 Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
-
-
 ## 🌟 Technologies avec lesquelles je travaille
-
 <p>
   <img src="https://img.shields.io/badge/Tech-React-blue" />
   <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" />
@@ -26,11 +17,11 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
 
 ## 🌍 Où me trouver
 
-<p>
-  <a href="https://github.com/IlhameSadik">GitHub</a>  
-  <a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/">LinkedIn</a> 
-  <a href="https://instagram.com/VotreNomUtilisateur">Instagram</a>
-</p>
+<ul>
+  <li><a href="https://github.com/IlhameSadik">GitHub</a> </li> 
+  <li><a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/">LinkedIn</a> </li>
+  <li><a href="https://instagram.com/VotreNomUtilisateur">Instagram</a></li>
+</ul>
 
 
 ## ☕ Offrez-moi un café
