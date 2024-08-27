@@ -1,6 +1,6 @@
 # Hey ! Ravi de vous voir ici.
 
-**Bienvenue sur ma page !**  
+![Bienvenue sur ma page !](https://media.giphy.com/media/3o6Zt5QL9V0W7lLhBo/giphy.gif)
 Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
 
 ---
@@ -14,13 +14,6 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
 ![CSS3](https://img.shields.io/badge/Tech-CSS3-blue)
 ![npm](https://img.shields.io/badge/Tech-npm-red)
 ![GitHub](https://img.shields.io/badge/Tech-GitHub-black)
-
----
-
-### 🕺 Animation de Texte
-
-Voici une démonstration de texte animé !  
-![Texte animé](https://media.giphy.com/media/3o6Zt5QL9V0W7lLhBo/giphy.gif)
 
 ---
 
