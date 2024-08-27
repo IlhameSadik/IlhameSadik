@@ -1,31 +1,37 @@
-<h1 align="center" style="color: #4CAF50;">Bienvenue sur ma page !</h1>
-
-<p align="center" style="color: #555555; font-size: 18px;">
-Je suis Ilhame Sadik, élève ingénieure en Mathématiques et Informatique spécialisée dans le développement web et l'analyse de données.
+<p align="center" style="color:blue;">
+  # Hey ! Ravi de vous voir ici.
+  ![Bienvenue sur ma page !](https://media.giphy.com/media/l0HlS0FhfPAwPiE2k/giphy.gif)
 </p>
+
+### 💙 à propos de moi 
+
+Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
+
+
+### 🌟 Technologies avec lesquelles je travaille
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AOFdoK1UqEm5B3S/giphy.gif" alt="Hello">
+  <img src="https://img.shields.io/badge/Tech-React-blue" />
+  <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Tech-Spring%20Boot-green" />
+  <img src="https://img.shields.io/badge/Tech-HTML5-orange" />
+  <img src="https://img.shields.io/badge/Tech-CSS3-blue" />
+  <img src="https://img.shields.io/badge/Tech-npm-red" />
+  <img src="https://img.shields.io/badge/Tech-GitHub-black" />
 </p>
 
-### Technologies avec lesquelles je travaille
-- React
-- Spring Boot
-- GitHub/Git
-- npm
-- HTML5/CSS
-- JavaScript
-- Langage R
-
-<p align="center">
-  <a href="https://github.com/IlhameSadik"><img src="https://img.shields.io/badge/GitHub-IlhameSadik-blue"></a>
-  <a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/"><img src="https://img.shields.io/badge/LinkedIn-Ilhame%20Sadik-blue"></a>
-</p>
+### 🌍 Où me trouver
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhameSadik&show_icons=true&theme=radical" alt="Ilhame's GitHub stats">
+  <a href="https://github.com/IlhameSadik">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/">LinkedIn</a> • 
+  <a href="https://instagram.com/VotreNomUtilisateur">Instagram</a>
 </p>
 
-<p align="center" style="font-size: 20px; color: #FF5733;">
-[Offrez-moi un café](https://buymeacoffee.com/sadikilhamg)
-</p>
+### ☕ Offrez-moi un café
+
+Si vous souhaitez soutenir mon travail, vous pouvez le faire en [offrant un café](https://buymeacoffee.com/sadikilhamg). Votre soutien est grandement apprécié !
+
+---
+
+Merci de visiter ma page ! N’hésitez pas à me contacter pour toute question ou opportunité.
