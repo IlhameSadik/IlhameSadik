@@ -1,6 +1,7 @@
 # Hey ! Ravi de vous voir ici.
 
-![Bienvenue sur ma page !](https://media.giphy.com/media/3o6Zt5QL9V0W7lLhBo/giphy.gif)
+![Bienvenue sur ma page !](https://media.giphy.com/media/l0HlS0FhfPAwPiE2k/giphy.gif)
+
 Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
 
 ---
