@@ -1,35 +1,41 @@
-# Hey ! Ravi de vous voir ici.
+<h1 align="center">Bienvenue sur ma page !</h1>
 
-![Bienvenue sur ma page !](URL_DU_GIF_ANIME)
+<p align="center">
+Je suis Ilhame Sadik, élève ingénieure en Mathématiques et Informatique spécialisée dans le développement web et l'analyse de données.
+</p>
 
-Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
+<p align="center">
+### 🌟 Animation de Texte
+</p>
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/26AOFdoK1UqEm5B3S/giphy.gif" alt="Hello">
+</p>
 
-### 🌟 Technologies avec lesquelles je travaille
+<p align="center">
+### Technologies avec lesquelles je travaille
+</p>
 
-![React](https://img.shields.io/badge/Tech-React-blue)
-![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow)
-![Spring Boot](https://img.shields.io/badge/Tech-Spring%20Boot-green)
-![HTML5](https://img.shields.io/badge/Tech-HTML5-orange)
-![CSS3](https://img.shields.io/badge/Tech-CSS3-blue)
-![npm](https://img.shields.io/badge/Tech-npm-red)
-![GitHub](https://img.shields.io/badge/Tech-GitHub-black)
+<p align="center">
+- React  
+- GitHub/Git  
+- npm  
+- HTML5/CSS  
+- Spring Boot  
+- JavaScript  
+- Langage R
+</p>
 
----
+<p align="center">
+### Où me trouver
+</p>
 
-### 🌍 Où me trouver
+<p align="center">
+- [GitHub](https://github.com/IlhameSadik)  
+- [LinkedIn](https://www.linkedin.com/in/ilhame-sadik-4a2404163/)  
+- [Instagram](https://instagram.com/VotreNomUtilisateur)  
+</p>
 
-- [GitHub](https://github.com/IlhameSadik)
-- [LinkedIn](https://www.linkedin.com/in/ilhame-sadik-4a2404163/)
-- [Instagram](https://instagram.com/VotreNomUtilisateur)
-
----
-
-### ☕ Offrez-moi un café
-
-Si vous souhaitez soutenir mon travail, vous pouvez le faire en [offrant un café](https://buymeacoffee.com/sadikilhamg). Votre soutien est grandement apprécié !
-
----
-
-Merci de visiter ma page ! N’hésitez pas à me contacter pour toute question ou opportunité.
+<p align="center">
+[Offrez-moi un café](https://buymeacoffee.com/sadikilhamg)
+</p>
