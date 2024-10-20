@@ -20,7 +20,7 @@ Je suis **Ilhame Sadik**, Élève Ingénieure en Mathématiques et Informatiques
 <ul>
   <li><a href="https://github.com/IlhameSadik">GitHub</a> </li> 
   <li><a href="https://www.linkedin.com/in/ilhame-sadik-4a2404163/">LinkedIn</a> </li>
-  <li><a href="https://https://www.instagram.com/ilhame_sadik/>Instagram</a></li>
+  <li><a href="https://www.instagram.com/ilhame_sadik/>Instagram</a></li>
 </ul>
 
 
