@@ -3,7 +3,7 @@
 </p>
 
 ## 💙 à propos de moi 
-Je suis **Ilhame Sadik**, Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 et Analyse de Données 📊.
+Je suis **Ilhame Sadik**, Ingénieure en Mathématiques et Informatiques 🌐 | Spécialiste en Développement Web 👨‍💻 .
 ## 🌟 Technologies avec lesquelles je travaille
 <p>
   <img src="https://img.shields.io/badge/Tech-React-blue" />
